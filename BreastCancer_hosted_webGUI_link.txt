@@ -2,5 +2,5 @@ Name: Obot utibeabasi
 Matric Number: 23CE034105
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model Persistence Method: Pickle
-Hosted App URL: https://breast-cancer-project-awa-emmanuel.onrender.com/
-GitHub Repo Link: https://github.com/AwaEmmanuel-lab/Breast_Cancer_Project_Awa_Emmanuel_23CE034385
+Hosted App URL: https://breast-cancer-project-obot-utibeabasi.onrender.com/
+GitHub Repo Link: https://github.com/Saint-024/Breast_cancer_project_obot_utibeabasi_23CG034105
